@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "4esv3YZKXKofGA4P/BJpQ+PRxFxin0sRJxvJu9PjF4s0o8443lbi3bIhK1/p1NryIA9CiJGSOejCffadJR7uxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

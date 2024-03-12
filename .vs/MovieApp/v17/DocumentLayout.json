@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B58CFF-590F-4089-9A1F-F25FE3FBF4FD}|MovieApp\\MovieApp.csproj|c:\\users\\maha.yaddas\\source\\repos\\movieapp\\movieapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B58CFF-590F-4089-9A1F-F25FE3FBF4FD}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CDC6A-C5A0-4B24-9BF4-4F5B5F0EEFC2}|Application\\Application.csproj|c:\\users\\maha.yaddas\\source\\repos\\movieapp\\application\\commands\\handlers\\deletemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CDC6A-C5A0-4B24-9BF4-4F5B5F0EEFC2}|Application\\Application.csproj|solutionrelative:application\\commands\\handlers\\deletemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CDC6A-C5A0-4B24-9BF4-4F5B5F0EEFC2}|Application\\Application.csproj|c:\\users\\maha.yaddas\\source\\repos\\movieapp\\application\\commands\\commands\\deletemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CDC6A-C5A0-4B24-9BF4-4F5B5F0EEFC2}|Application\\Application.csproj|solutionrelative:application\\commands\\commands\\deletemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C4076B-8B0F-4DC2-8150-EC35A1715D9B}|Domain\\Domain.csproj|c:\\users\\maha.yaddas\\source\\repos\\movieapp\\domain\\movie\\data\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C4076B-8B0F-4DC2-8150-EC35A1715D9B}|Domain\\Domain.csproj|solutionrelative:domain\\movie\\data\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0CDBE9-6EC7-4FBF-B6E9-878777927CE4}|Infrastructure\\Infrastructure.csproj|c:\\users\\maha.yaddas\\source\\repos\\movieapp\\infrastructure\\movie\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0CDBE9-6EC7-4FBF-B6E9-878777927CE4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\movie\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CDC6A-C5A0-4B24-9BF4-4F5B5F0EEFC2}|Application\\Application.csproj|c:\\users\\maha.yaddas\\source\\repos\\movieapp\\application\\commands\\commands\\updatemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CDC6A-C5A0-4B24-9BF4-4F5B5F0EEFC2}|Application\\Application.csproj|solutionrelative:application\\commands\\commands\\updatemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3CDC6A-C5A0-4B24-9BF4-4F5B5F0EEFC2}|Application\\Application.csproj|c:\\users\\maha.yaddas\\source\\repos\\movieapp\\application\\commands\\handlers\\updatemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3CDC6A-C5A0-4B24-9BF4-4F5B5F0EEFC2}|Application\\Application.csproj|solutionrelative:application\\commands\\handlers\\updatemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\MovieApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\MovieApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:40:35.326Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Domain\\Movie\\Data\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Movie\\Data\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Domain\\Movie\\Data\\IMovieRepository.cs",
+              "RelativeToolTip": "Domain\\Movie\\Data\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:17:02.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Infrastructure\\Movie\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Movie\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Infrastructure\\Movie\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Movie\\Repositories\\MovieRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:16:28.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteMovieCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Application\\Commands\\Handlers\\DeleteMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\Handlers\\DeleteMovieCommandHandler.cs",
+              "ToolTip": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Application\\Commands\\Handlers\\DeleteMovieCommandHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\Handlers\\DeleteMovieCommandHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:15:10.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteMovieCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Application\\Commands\\Commands\\DeleteMovieCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\Commands\\DeleteMovieCommand.cs",
+              "ToolTip": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Application\\Commands\\Commands\\DeleteMovieCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\Commands\\DeleteMovieCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:14:58.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateMovieCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Application\\Commands\\Commands\\UpdateMovieCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\Commands\\UpdateMovieCommand.cs",
+              "ToolTip": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Application\\Commands\\Commands\\UpdateMovieCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\Commands\\UpdateMovieCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:09:55.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateMovieCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Application\\Commands\\Handlers\\UpdateMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\Handlers\\UpdateMovieCommandHandler.cs",
+              "ToolTip": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Application\\Commands\\Handlers\\UpdateMovieCommandHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\Handlers\\UpdateMovieCommandHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA+wCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:31:34.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

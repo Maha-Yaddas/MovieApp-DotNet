@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KOI0AxhVQO998nuYC/ahFQZc02mkcoxzr0FcGu/RaTw+Dc9tDKivt1jk+SCIfWW3oFMIucfnk0qDPDspO1P57w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAHA.YADDAS\\source\\repos\\MovieApp\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\MAHA.YADDAS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
